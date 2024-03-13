@@ -165,7 +165,6 @@ a {
 }
 .content-video {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     column-gap: 20px;
     padding-top: 90px;
