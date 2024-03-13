@@ -186,6 +186,10 @@ a {
 .contacts-content p + p {
     margin-top: 1em;
 }
+.contacts-social img {
+    width: 40px;
+    height: 40px;
+}
 /* .contacts-button {
     margin-bottom: 80px;
 } */
