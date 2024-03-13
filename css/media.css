@@ -58,6 +58,9 @@
         flex-direction: column;
         gap: 20px;
     }
+    .telefon {
+        font-size: 15px;
+        }
     .uchastky_item {
         width: 28vw;
         border-radius: 8px;
