@@ -46,6 +46,7 @@
         row-gap: 20px;
     }
     .header-content {
+        text-align: center;
         margin-top: 0;  
     }
     .header-img {
@@ -62,7 +63,7 @@
         font-size: 25px;
         }
     .uchastky_item {
-        width: 20vw;
+        width: 23vw;
         border-radius: 8px;
         padding: 1vw;
         
@@ -137,7 +138,7 @@
     .content-video {
     }
     .uchastky_item {
-        width: 20vw;
+        width: 23vw;
         border-radius: 8px;
         padding: 1.2vw;
         
