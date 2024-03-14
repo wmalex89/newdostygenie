@@ -240,10 +240,9 @@ a {
     align-items: center;
     display: flex;
     position: fixed;
-    right: 40px;
     bottom: 40px;
     cursor: pointer;
-    opacity: 0.3;
+    opacity: 0.2;
 }
 .top img {
     width: 50px;
