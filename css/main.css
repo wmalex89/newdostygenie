@@ -222,7 +222,7 @@ a {
 .contacts-social {
     display: flex;
     justify-content: center;
-    column-gap: 60px;
+    column-gap: 40px;
     align-items: center;
     margin-bottom: 40px;
 }
