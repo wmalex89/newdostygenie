@@ -1,6 +1,6 @@
 @media (max-width: 1230px) {
-    .header-row {
-        height: 50vh;
+    .header {
+        height: 70vh;
     }
     .nav-list {
         display: none;
