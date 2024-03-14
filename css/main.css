@@ -240,7 +240,7 @@ a {
     align-items: center;
     display: flex;
     position: fixed;
-    right: 0;
+    right: 5px;
     bottom: 40px;
     cursor: pointer;
     opacity: 0.2;
